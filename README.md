@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eliyas Bashaw</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
-- 🌱 I’m currently learning **Expressjs, Nextjs**
+- 🌱 I’m currently learning **Express.js, Nextjs**
 
 - 💬 Ask me about **fullstack**
 
