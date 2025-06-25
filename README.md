@@ -7,6 +7,12 @@
 ![](https://komarev.com/ghpvc/?username=robimez)
 
 
+[![wakatime](https://wakatime.com/badge/user/b864c643-d1a3-41f5-9e0f-8ecf20a95c65.svg)](https://wakatime.com/@4963d682-0887-4341-9018-7481f8db2350)
+![](https://komarev.com/ghpvc/?username=llyas36)
+
+
+
+
 - 🌱 I’m currently learning **Express.js, Nextjs**
 
 - 💬 Ask me about **fullstack**
