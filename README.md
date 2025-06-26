@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eliyas Bashaw</h1>
 <h3 align="center">A passionate fullstack developer from Ethiopia</h3>
 
-
+[![wakatime](https://wakatime.com/badge/user/4963d682-0887-4341-9018-7481f8db2350.svg)](https://wakatime.com/@4963d682-0887-4341-9018-7481f8db2350)
 
 
 [![wakatime](https://wakatime.com/badge/user/4963d682-0887-4341-9018-7481f8db2350.svg)](https://wakatime.com/@4963d682-0887-4341-9018-7481f8db2350)
